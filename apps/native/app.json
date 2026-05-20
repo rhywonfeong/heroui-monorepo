@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "my-better-t-app2",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "my-better-t-app2",
+    "slug": "my-better-t-app2",
+    "plugins": [
+      "expo-font",
+      "expo-secure-store",
+      "expo-web-browser",
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a48ecbdf-d01d-4a0d-a7ce-2d65ff6d0e0e"
+      }
+    },
+    "android": {
+      "package": "com.xchvhv.mybettertapp2"
+    }
+  }
+}

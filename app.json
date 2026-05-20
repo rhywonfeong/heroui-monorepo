@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a48ecbdf-d01d-4a0d-a7ce-2d65ff6d0e0e"
+      }
+    },
+    "android": {
+      "package": "com.xchvhv.mybettertapp2"
+    }
+  }
+}
